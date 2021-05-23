@@ -12,6 +12,17 @@ psycopg2-binary = "*"
 pytest = "*"
 pytest-cov = "*"
 pytest-django = "*"
+django-extensions = "*"
+django-filter = "*"
+requests = "*"
+django-heroku = "*"
+drf-generators = "*"
+gunicorn = "*"
+mimesis-factory = "*"
+faker = "*"
+factory-boy = "*"
+drf-spectacular = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
