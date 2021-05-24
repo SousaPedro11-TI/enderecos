@@ -200,7 +200,7 @@ SPECTACULAR_SETTINGS = {
         "displayOperationId": True,
     },
     # available SwaggerUI versions: https://github.com/swagger-api/swagger-ui/releases
-    "SWAGGER_UI_DIST": "//unpkg.com/swagger-ui-dist@3.35.1",  # default
+    "SWAGGER_UI_DIST": "//unpkg.com/swagger-ui-dist@3.49.0",  # default
     # "SWAGGER_UI_FAVICON_HREF": settings.STATIC_URL + "your_company_favicon.png",  # default is swagger favicon
     'SERVE_INCLUDE_SCHEMA': False,
     'SORT_OPERATION_PARAMETERS': False,
